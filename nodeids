@@ -1,0 +1,11 @@
+[
+  "frist_case.py::FristCase::test_register_code_error",
+  "frist_case.py::FristCase::test_register_email_error",
+  "frist_case.py::FristCase::test_register_name_error",
+  "frist_case.py::FristCase::test_register_password_error",
+  "frist_case.py::FristCase::test_register_success",
+  "run_test.py::RunCase::test_case01",
+  "unitest_case02.py::Fristcase02::testcase001",
+  "unitest_case02.py::Fristcase02::testcase002",
+  "unitest_case02.py::Fristcase02::testcase003"
+]

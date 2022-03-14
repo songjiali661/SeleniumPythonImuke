@@ -1,0 +1,13 @@
+teste
+2022-03-07 15:29:58,633 register_log.py <module> register_log 10 teste
+2022-03-07 15:32:15,149 register_log.py ------> <module> register_log 10 -------> teste
+2022-03-07 15:47:25,394 register_log.py ------> <module> register_log 10 -------> teste
+2022-03-07 15:48:02,718 register_log.py ------> <module> register_log 10 -------> teste
+2022-03-07 15:49:09,696 register_log.py ------> <module> register_log 10 -------> teste
+2022-03-07 15:49:21,730 register_log.py ------> <module> register_log 10 -------> teste
+2022-03-07 15:49:40,856 register_log.py ------> <module> register_log 10 -------> teste
+2022-03-07 15:53:44,494 register_log.py ------> <module> register_log 10 -------> teste
+2022-03-07 15:54:45,126 register_log.py ------> <module> register_log 10 -------> teste
+2022-03-07 15:54:58,367 register_log.py ------> <module> register_log 10 -------> teste
+2022-03-07 15:55:24,646 register_log.py ------> <module> register_log 10 -------> teste
+2022-03-07 15:57:27,777 register_log.py ------> <module> register_log 10 -------> teste
